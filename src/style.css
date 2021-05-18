@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+/* Write your utility classes here */
+@tailwind utilities;
+
+body {
+    background: greenyellow;
+    background-image: url("./logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}

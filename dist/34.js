@@ -1,0 +1,2 @@
+/*! For license information please see 34.js.LICENSE.txt */
+(self.webpackChunkwebpack_demo=self.webpackChunkwebpack_demo||[]).push([[34],{34:function(e,a,c){"use strict";c.r(a),a.default="Hello from lazy"}}]);
